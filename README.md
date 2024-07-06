@@ -112,25 +112,5 @@ The main features affecting stroke prediction are average glucose level, Body Ma
 - Exploring more features to enhance model accuracy.
 - Initiating further research on brain stroke prediction, particularly relevant to the Indian population where 60% of global stroke patients are from India.
 
-## How to Run
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/stroke-analysis-and-prediction.git
-    ```
-2. **Install Dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. **Run the Streamlit Application**:
-    ```bash
-    streamlit run app.py
-    ```
-
-## Contributing
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before getting started.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-<iframe src="https://www.kaggle.com/embed/nisargpatel13/brain-stroke-prediction-eda-multiple-models?cellIds=86-100&kernelSessionId=124968785" height="500" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Brain Stroke Prediction(EDA &amp; Multiple Models)"></iframe>
+## Notebook Link - https://www.kaggle.com/code/nisargpatel13/brain-stroke-prediction-eda-multiple-models
 
